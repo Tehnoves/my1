@@ -9,6 +9,8 @@ print(c_ushort(-3))
 
 kuku
 новая ветка kuku
+
+graf
 '''
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
