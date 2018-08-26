@@ -7,4 +7,5 @@ print(c_ushort(-3))
 #  git log --pretty=oneline
 '''
 kuku
+новая ветка kuku
 '''
